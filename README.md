@@ -1,4 +1,4 @@
-> [Uriah Jeshurun](https://www.linkedin.com/in/uriah-jeshurun/)
+> [Uriah Jeshurun](https://www.linkedin.com/in/uriah-jeshurun/) /
 [uriahjeshurun@gmail.com](mailto:uriahjeshurun@gmail.com)
 
 # Uriah JeshurunFront &ndash; End Engineer
