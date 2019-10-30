@@ -1,7 +1,7 @@
 > [Uriah Jeshurun](https://www.linkedin.com/in/uriah-jeshurun/) /
 [uriahjeshurun@gmail.com](mailto:uriahjeshurun@gmail.com)
 
-# Uriah JeshurunFront &ndash; End Engineer
+# Uriah Jeshurun &ndash; Front-End Engineer
 - Software engineer specializing in Frontend development and web technologies
 - Effective team member, adapting to different workflows and gleaning from team members
 - Self-sufficient when working on tasks and projects without the aid of teams
