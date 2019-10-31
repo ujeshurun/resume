@@ -24,7 +24,7 @@ Front End Web Developer
 - Primary focus in FRONTEND DEVELOPMENT
 - Used HTML5, CSS3, JavaScript, React, Git and GitHub, and some C# and ASP MVC
 
-
+---
 
 **GalaxE Solutions, Detroit, MI**  
 Software Engineer 
@@ -35,7 +35,7 @@ Software Engineer
 - Used HTML, CSS, JavaScript, minor AngularJS, PHP, Git and GitHub, and Jira for Scrum and agile processes
 - Learning AWS development and ReactJS 
 
-
+---
 
 **ardentCause L3C, Troy, MI**  
 Beginner Software Engineer (Lv 3)
@@ -46,7 +46,7 @@ Beginner Software Engineer (Lv 3)
 - Integrated charting functionality using Echarts API
 - Used Google Maps API to create school locater app
 
-
+---
 
 **ardentCause L3C, Troy, MI**  
 Beginner Software Engineer (Lv 1)
@@ -54,7 +54,7 @@ Beginner Software Engineer (Lv 1)
 - Front-end web development
 - Database maintenance
 
-
+---
 
 **City of Birmingham, Birmingham, MI**  
 IT Assistant
@@ -62,7 +62,7 @@ IT Assistant
 - Helped city officials with troubleshooting efforts of their Windows PC's
 - Assisted with event coordination between departments
 
-
+---
 
 **Henry Ford College, Dearborn, MI**  
 Student Ambassador
@@ -71,7 +71,7 @@ Student Ambassador
 - Assisted department in marketing and recruiting efforts
 - Worked as part of a team to accomplish task and meet deadlines
 
-
+---
 
 **Henry Ford College, Dearborn, MI**  
 Student Mentor
