@@ -83,7 +83,7 @@ Student Mentor
 
 
 ## Education
-**University of Michigan - Dearborn**
+**University of Michigan - Dearborn**  
 Software Engineering, *2012-2014*
 
 **Florida Institute of Technology**  
